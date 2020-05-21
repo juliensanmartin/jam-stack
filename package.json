@@ -1,0 +1,13 @@
+{
+  "name": "jam-stack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/juliensanmartin/jam-stack.git",
+  "author": "Julien Sanmartin <julien.sanmartin@parsable.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
